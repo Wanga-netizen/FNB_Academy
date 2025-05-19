@@ -1,0 +1,31 @@
+
+.gallery img{
+    width:100%;
+}
+
+h2{
+    color:rgba(0, 128, 255, 0.684);
+}
+h4{
+    color:rgba(0, 128, 255, 0.608);
+}
+#menu{
+    width:100%;
+    padding: 30px;
+    background-color: cornflowerblue;
+}
+
+#menu a{
+      color:#ffffff;
+      font-family: Helvetica, sans-serif;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu a:hover{
+       color: #5077bd;
+}
